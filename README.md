@@ -1,7 +1,3 @@
-# SKsite
-# SKsite
-# SKsite
-# ProjetoSK
 <h1 align="center"> SK's Site </h1>
 
 <p align="center">
